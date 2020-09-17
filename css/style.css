@@ -596,7 +596,7 @@ body {
    position: fixed;
    right: 20px;
    bottom: 0;
-   z-index: 9999;
+   z-index: 9990;
    box-shadow: inset 0 0 0 2px var(--coffee3), inset 0 0 0 4px var(--coffee5);
 }
 
@@ -607,6 +607,7 @@ body {
    line-height: 50px;
    color: var(--coffee5);
    text-decoration: none;
+   z-index: 9999;
 }
 
 /* 視差 */
